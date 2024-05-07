@@ -1,0 +1,14 @@
+C:\Users\nsamu\Documents\URL Primer semestre\PC\Parcial2\bin\Debug\net8.0\Parcial2.exe
+C:\Users\nsamu\Documents\URL Primer semestre\PC\Parcial2\bin\Debug\net8.0\Parcial2.deps.json
+C:\Users\nsamu\Documents\URL Primer semestre\PC\Parcial2\bin\Debug\net8.0\Parcial2.runtimeconfig.json
+C:\Users\nsamu\Documents\URL Primer semestre\PC\Parcial2\bin\Debug\net8.0\Parcial2.dll
+C:\Users\nsamu\Documents\URL Primer semestre\PC\Parcial2\bin\Debug\net8.0\Parcial2.pdb
+C:\Users\nsamu\Documents\URL Primer semestre\PC\Parcial2\obj\Debug\net8.0\Parcial2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nsamu\Documents\URL Primer semestre\PC\Parcial2\obj\Debug\net8.0\Parcial2.AssemblyInfoInputs.cache
+C:\Users\nsamu\Documents\URL Primer semestre\PC\Parcial2\obj\Debug\net8.0\Parcial2.AssemblyInfo.cs
+C:\Users\nsamu\Documents\URL Primer semestre\PC\Parcial2\obj\Debug\net8.0\Parcial2.csproj.CoreCompileInputs.cache
+C:\Users\nsamu\Documents\URL Primer semestre\PC\Parcial2\obj\Debug\net8.0\Parcial2.dll
+C:\Users\nsamu\Documents\URL Primer semestre\PC\Parcial2\obj\Debug\net8.0\refint\Parcial2.dll
+C:\Users\nsamu\Documents\URL Primer semestre\PC\Parcial2\obj\Debug\net8.0\Parcial2.pdb
+C:\Users\nsamu\Documents\URL Primer semestre\PC\Parcial2\obj\Debug\net8.0\Parcial2.genruntimeconfig.cache
+C:\Users\nsamu\Documents\URL Primer semestre\PC\Parcial2\obj\Debug\net8.0\ref\Parcial2.dll
